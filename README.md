@@ -12,11 +12,12 @@
 
 <p align="center">
     <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=26F70C&width=1080&height=152&lines=Todo+lo+que+el+%22PROGRAMADOR%22+necesita+EN+UN+SOLO+LUGAR%22" alt="Typing SVG" /></a>
-  </a>
 </p>
 
 <p align="center">
-  <img src="./guille.png" alt="Guille" height="140" />
+  <img src="./guille.png2" alt="Guille" height="160" />
+  <br/>
+  <sub><em>“¡Hola! Soy Guille 🤖☀️… el chatbot de LA LEHMANN.”</em></sub>
 </p>
 
 
