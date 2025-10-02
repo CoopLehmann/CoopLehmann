@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <img
+    width="100%"
+    alt="banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00A859,100:FFD100"
+  />
+</div>
 
-<!--
-**CoopLehmann/CoopLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Cooperativa Agrícola Ganadera Ltda. <br/> “Guillermo Lehmann”
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=26F70C&width=1080&height=152&lines=Todo+lo+que+el+%22PROGRAMADOR%22+necesita+EN+UN+SOLO+LUGAR%22" alt="Typing SVG" /></a>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/guille.png" alt="Guille" height="140" />
+</p>
+
+
+## 🛠️ Stack (referencial)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+<p align="center">
+  <sub>Este README vive en <code>.github/profile/README.md</code> y define el perfil de la organización.</sub>
+</p>
+
