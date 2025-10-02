@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/guille.png" alt="Guille" height="140" />
+  <img src="./guille.png" alt="Guille" height="140" />
 </p>
 
 
