@@ -11,7 +11,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=26F70C&width=1080&height=152&lines=Todo+lo+que+el+%22PROGRAMADOR%22+necesita+EN+UN+SOLO+LUGAR%22" alt="Typing SVG" /></a>
   </a>
 </p>
