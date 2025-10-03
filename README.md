@@ -22,6 +22,10 @@
   <img src="./Guille2.png" alt="Guille" height="350" />
 </h4>
 
+<h3 align="center">
+“This is the way (to prod).” (The Mandalorian)
+  </h3>
+
 ## 🛠️ Stack (referencial)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&style=for-the-badge" />
